@@ -2,8 +2,7 @@
 #include <w5500.c>
 
 int main(void)
-{
-	//test
-
-	return 0;
+{	
+	printf("hello!!!");
+  return 0;
 }
